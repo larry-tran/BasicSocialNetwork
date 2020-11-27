@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/LAB1_2">
+  <Resource auth="Container" 
+            driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+            name="LongTr" 
+            password="123456789" 
+            type="javax.sql.DataSource" 
+            url="jdbc:sqlserver://localhost:1433;databaseName=SocialNetwork" 
+            username="sa"/>
+</Context>
